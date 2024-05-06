@@ -71,7 +71,7 @@
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
 <!-- ### Stats
-<h4     Game Logic and Mechanics:
+<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> -->     Game Logic and Mechanics:
         The Snake game is a classic arcade game where the player controls a snake that grows in length as it eats food. The snake moves continuously in a direction specified by the player (up, down, left, or right). The game ends if the snake collides with itself or the boundaries of the game screen. The objective is to eat as much food as possible without colliding.
 
     Python Programming:
@@ -90,9 +90,7 @@
         One challenge I encountered was implementing collision detection accurately, especially when the snake's head collides with its own body. I overcame this challenge by carefully tracking the positions of each segment of the snake's body and checking for collisions during each iteration of the game loop. Another challenge was fine-tuning the AI agent's parameters to balance exploration and exploitation effectively. I addressed this by experimenting with different parameter values and observing their effects on the agent's performance.
 
     Future Improvements:
-        In the future, I would like to explore more sophisticated AI algorithms, such as reinforcement learning, to train the agent to play the game more intelligently. Additionally, I plan to add features such as different levels of difficulty, additional obstacles, and power-ups to make the game more challenging and engaging for players. I also aim to optimize the code further for better performance and scalability, especially for handling larger game grids or more complex game mechanics.
-	h4>
-
+        In the future, I would like to explore more sophisticated AI algorithms, such as reinforcement learning, to train the agent to play the game more intelligently. Additionally, I plan to add features such as different levels of difficulty, additional obstacles, and power-ups to make the game more challenging and engaging for players. I also aim to optimize the code further for better performance and scalability, especially for handling larger game grids or more complex game mechanics.</h1>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
